@@ -1,2 +1,2 @@
 # clash-rules
-Clash Premium RULE-SET
+自用 Clash Premium RULE-SET
