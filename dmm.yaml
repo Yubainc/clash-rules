@@ -1,7 +1,6 @@
 payload:
-  - 'dmm.com'
-  - 'dmm.co.jp'
-  - 'dmm-extension.com'
-  - 'dmmapis.com'
+  - '+.dmm.com'
+  - '+.dmm.co.jp'
+  - '+.dmm-extension.com'
+  - '+.dmmapis.com'
   - 'api-p.videomarket.jp'
-  - 'dmm.co.jp'
