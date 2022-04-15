@@ -2,3 +2,6 @@ payload:
   - '+.nexon.io'
   - '+.nexon.com'
   - '+.nexoncdn.co.kr'
+  - '+.nexon.io'
+  - '+.cloudfront.com'
+  - '+.bootstrapcdn.com'
