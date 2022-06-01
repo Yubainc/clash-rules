@@ -7,4 +7,4 @@ payload:
   - 'osusadispatch.yuanshen.com'
   - 'autopatchhk.yuanshen.com'
   - 'overseauspider.yuanshen.com'
-  - '8.211.158.241/32'
+  - '8.211.0.0/16'
