@@ -1,10 +1,10 @@
 payload:
-  - '+.hoyoverse.com'
-  - '+.genshinimpact.com'
-  - 'dispatchosglobal.yuanshen.com'
-  - 'osasiadispatch.yuanshen.com'
-  - 'oseurodispatch.yuanshen.com'
-  - 'osusadispatch.yuanshen.com'
-  - 'autopatchhk.yuanshen.com'
-  - 'overseauspider.yuanshen.com'
-  - '8.211.0.0/16'
+  - DOMAIN,+.hoyoverse.com'
+  - DOMAIN,+.genshinimpact.com'
+  - DOMAIN,dispatchosglobal.yuanshen.com
+  - DOMAIN,osasiadispatch.yuanshen.com
+  - DOMAIN,oseurodispatch.yuanshen.com
+  - DOMAIN,osusadispatch.yuanshen.com
+  - DOMAIN,autopatchhk.yuanshen.com
+  - DOMAIN,overseauspider.yuanshen.com
+  - IP-CIDR,8.211.0.0/16
