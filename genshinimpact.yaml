@@ -1,6 +1,6 @@
 payload:
-  - DOMAIN,+.hoyoverse.com'
-  - DOMAIN,+.genshinimpact.com'
+  - DOMAIN,+.hoyoverse.com
+  - DOMAIN,+.genshinimpact.com
   - DOMAIN,dispatchosglobal.yuanshen.com
   - DOMAIN,osasiadispatch.yuanshen.com
   - DOMAIN,oseurodispatch.yuanshen.com
