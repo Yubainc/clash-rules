@@ -1,8 +1,9 @@
 payload:
+  - '+.hoyoverse.com'
   - '+.genshinimpact.com'
   - 'dispatchosglobal.yuanshen.com'
   - 'osasiadispatch.yuanshen.com'
-  - 'autopatchhk.yuanshen.com'
   - 'oseurodispatch.yuanshen.com'
-  - 'overseauspider.yuanshen.com'
+  - 'osusadispatch.yuanshen.com'
+  - 'autopatchhk.yuanshen.com'
   - '8.211.158.241/32'
