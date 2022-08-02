@@ -1,6 +1,4 @@
 payload:
-  - '+.shadowverse.jp'
-  - 'shadowverse.akamaized.net'
-  - '+.api-priconne-redive.cygames.jp'
+  - '+.cygames.jp'
+  - '+.cygames.co.jp'
   - 'prd-priconne-redive.akamaized.net'
-  - '+.omotenashi.cygames.jp'
