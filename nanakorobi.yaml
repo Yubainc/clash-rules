@@ -1,0 +1,4 @@
+payload:
+  - IP-CIDR,43.154.142.247/32,DIRECT
+  - DOMAIN,jellyfin.nanakorobi.com,STREAMING
+  - DOMAIN-SUFFIX,nanakorobi.com,DIRECT
