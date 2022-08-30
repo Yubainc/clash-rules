@@ -1,6 +1,7 @@
 payload:
   - '+.cygames.jp'
   - '+.cygames.co.jp'
+  - '+.api-priconne-redive.cygames.jp'
   - 'prd-priconne-redive.akamaized.net'
   - 'prd-storage-app-umamusume.akamaized.net'
   - 'prd-storage-game-umamusume.akamaized.net'
