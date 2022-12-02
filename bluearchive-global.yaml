@@ -1,5 +1,9 @@
 payload:
-  - '+.nexon.io'
-  - '+.nexon.com'
-  - '+.nexoncdn.co.kr'
-  - '+.cloudfront.net '
+  - 'toy.log.nexon.io'
+  - 'm-api.nexon.com'
+  - 'sdk-push.mp.nexon.com'
+  - 'stamp.mp.nexon.com'
+  - '+.ngsm.nexon.com'
+  - '+.livelog.nexon.com'
+  - '+.nxm-eu-bagl.nexon.com'
+  - '+.dn.nexoncdn.co.kr'
