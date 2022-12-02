@@ -1,8 +1,8 @@
 payload:
   - 'toy.log.nexon.io'
   - 'm-api.nexon.com'
-  - 'sdk-push.mp.nexon.com'
   - 'stamp.mp.nexon.com'
+  - 'sdk-push.mp.nexon.com'
   - '+.ngsm.nexon.com'
   - '+.livelog.nexon.com'
   - '+.nxm-eu-bagl.nexon.com'
