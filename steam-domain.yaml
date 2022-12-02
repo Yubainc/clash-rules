@@ -11,7 +11,7 @@ payload:
 - "+.steam-api.com"
 - "+.steam-chat.com"
 - "+.steamchina.com"
-- "+.steamcommunity.com"
+# - "+.steamcommunity.com"
 - "+.steamcontent.com"
 - "+.steamdeck.com"
 - "+.steamgames.com"
