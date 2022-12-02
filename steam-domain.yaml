@@ -19,7 +19,7 @@ payload:
 - "+.steampowered.com"
 - "+.steampowered.com.8686c.com"
 - "+.steamserver.net"
-- "+.steamstatic.com"
+# - "+.steamstatic.com"
 - "+.steamstatic.com.8686c.com"
 - "+.steamusercontent.com"
 - "+.underlords.com"
