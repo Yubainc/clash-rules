@@ -27,7 +27,7 @@ payload:
 - "+.wmsjsteam.com"
 - "steambroadcast.akamaized.net"
 - "steamcdn-a.akamaihd.net"
-- "steamcommunity-a.akamaihd.net"
+# - "steamcommunity-a.akamaihd.net"
 - "steamstore-a.akamaihd.net"
 - "steamusercontent-a.akamaihd.net"
 - "steamuserimages-a.akamaihd.net"
