@@ -7,3 +7,7 @@ payload:
   - 'tap-android-logs-hk.cn-hongkong.log.aliyuncs.com'
   # genshinimpact
   - 'log-upload-os.hoyoverse.com'
+  # spotify
+  - 'adeventtracker.spotify.com'
+  - 'adstudio-assets.scdn.co'
+  - 'bloodhound.spotify.com'
