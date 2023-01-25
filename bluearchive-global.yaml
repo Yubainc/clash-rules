@@ -1,8 +1,6 @@
 payload:
-  - 'toy.log.nexon.io'
   - 'm-api.nexon.com'
   - '+.mp.nexon.com'
   - '+.ngsm.nexon.com'
-  - '+.livelog.nexon.com'
   - '+.nxm-eu-bagl.nexon.com'
   - 'ba.dn.nexoncdn.co.kr'
