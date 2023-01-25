@@ -1,6 +1,5 @@
 payload:
   - 'm-api.nexon.com'
   - '+.mp.nexon.com'
-  - '+.ngsm.nexon.com'
   - '+.nxm-eu-bagl.nexon.com'
   - 'ba.dn.nexoncdn.co.kr'
