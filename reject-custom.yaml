@@ -1,8 +1,8 @@
 payload:
   # bluearchive-global
-  - '+.toy.log.nexon.io'
-  - '+.livelog.nexon.com'
+  - 'toy.log.nexon.io'
   - 'log.ngsm.nexon.com'
+  - '+.livelog.nexon.com'
   # taptap-global
   - 'tap-snow-hk.cn-hongkong.log.aliyuncs.com'
   - 'tap-android-logs-hk.cn-hongkong.log.aliyuncs.com'
