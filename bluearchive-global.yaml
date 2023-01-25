@@ -1,8 +1,11 @@
 payload:
   - 'm.nexon.com'
   - 'm-api.nexon.com'
+  - 'api.ngsm.nexon.com'
+  - 'log.ngsm.nexon.com'
   - 'stamp.mp.nexon.com'
+  - 'jp.livelog.nexon.com'
+  - 'sdk-push.mp.nexon.com'
   - 'nxm-eu-bagl.nexon.com'
   - 'toy.log.nexon.io'
-  - 'log.ngsm.nexon.com'
-  - 'jp.livelog.nexon.com'
+  - 'ba.dn.noexoncdn.co.kr'
