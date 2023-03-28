@@ -1,8 +1,6 @@
 payload:
-  - 'm.nexon.com'
-  - 'm-api.nexon.com'
-  - 'api.ngsm.nexon.com'
-  - 'stamp.mp.nexon.com'
-  - 'sdk-push.mp.nexon.com'
-  - 'nxm-eu-bagl.nexon.com'
-  - 'ba.dn.noexoncdn.co.kr'
+  - '+.nexon.io
+  - '+.nexon.com'
+  - '+.noexoncdn.co.kr'
+  - 'd1xcyqc5pfiggd.cloudfront.net'
+  - 'd30y0swoxkbnsm.cloudfront.net'
