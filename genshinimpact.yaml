@@ -1,12 +1,8 @@
 payload:
-  - DOMAIN-SUFFIX,hoyoverse.com
-  - DOMAIN-SUFFIX,genshinimpact.com
-  - DOMAIN,dispatchosglobal.yuanshen.com
-  - DOMAIN,osasiadispatch.yuanshen.com
-  - DOMAIN,oseurodispatch.yuanshen.com
-  - DOMAIN,osusadispatch.yuanshen.com
-  - DOMAIN,overseauspider.yuanshen.com
-  - DOMAIN,hk4e-api-os.mihoyo.com
-  - IP-CIDR,8.211.0.0/16
-  - IP-CIDR,47.74.0.0/16
-  - IP-CIDR,47.245.0.0/16
+- '+.genshinimpact.com'
+- '+.honkaiimpact3.com'
+- '+.honkaistarrail.com'
+- '+.hoyo.link'
+- '+.hoyolab.com'
+- '+.hoyoverse.com'
+- '+.n0vadesktop.com'
