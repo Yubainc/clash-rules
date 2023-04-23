@@ -1,8 +1,12 @@
 payload:
+# genshin
   - '+.genshinimpact.com'
   - 'dispatchosglobal.yuanshen.com'
   - 'osasiadispatch.yuanshen.com'
+  - 'autopatchhk.yuanshen.com'
+# honkaiimpact3
   - '+.honkaiimpact3.com'
+# hsr
   - '+.honkaistarrail.com'
   - '+.hoyo.link'
   - '+.hoyolab.com'
