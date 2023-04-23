@@ -1,7 +1,10 @@
 payload:
-  - '+.nexon.io'
-  - '+.nexon.com'
-  - '+.noexoncdn.co.kr'
+  - '*.nexon.com'
+  - '*.mp.nexon.com'
+  - '*.ngsm.nexon.com'
+  - 'ba.dn.nexoncdn.co.kr'
+  - 'jp.livelog.nexon.com'
+  - 'nxm-eu-bagl.nexon.com'
   - 'd1xcyqc5pfiggd.cloudfront.net'
   - 'd30y0swoxkbnsm.cloudfront.net'
   - 'd2vaidpni345rp.cloudfront.net'
