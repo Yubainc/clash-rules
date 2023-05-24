@@ -6,7 +6,7 @@ payload:
   - DOMAIN,autopatchhk.yuanshen.com
   - DOMAIN,webstatic-sea.mihoyo.com
   - DOMAIN,hk4e-api-os.mihoyo.com
-  - DOMAIN,account.mihoyo.com'
+  - DOMAIN,account.mihoyo.com
   - IP-CIDR,8.211.0.0/16
   - IP-CIDR,47.74.0.0/16
   - IP-CIDR,47.245.0.0/16
