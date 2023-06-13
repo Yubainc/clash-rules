@@ -1,0 +1,31 @@
+payload:
+# Bang Dream
+  - DOMAIN,api.star.craftegg.jp
+# Cygames
+  - DOMAIN-SUFFIX,cygames.jp
+  - DOMAIN-SUFFIX,cygames.co.jp
+  - DOMAIN-SUFFIX,shadowverse.jp
+  - DOMAIN,shadowverse.akamaized.net
+  - DOMAIN,prd-priconne-redive.akamaized.net
+  - DOMAIN,prd-storage-app-umamusume.akamaized.net
+  - DOMAIN,prd-storage-game-umamusume.akamaized.net
+# 原神
+  - DOMAIN-SUFFIX,genshinimpact.com
+  - DOMAIN,dispatchosglobal.yuanshen.com
+  - DOMAIN,osasiadispatch.yuanshen.com
+  - DOMAIN,autopatchhk.yuanshen.com
+  - DOMAIN,hk4e-api-os.mihoyo.com
+  - IP-CIDR,8.211.0.0/16
+  - IP-CIDR,47.74.0.0/16
+  - IP-CIDR,47.245.0.0/16
+# 崩坏3
+  - DOMAIN-SUFFIX,honkaiimpact3.com
+# 星穹轨道
+  - DOMAIN-SUFFIX,honkaistarrail.com
+  - DOMAIN-SUFFIX,starrails.com
+# 短链接
+  - DOMAIN-SUFFIX,hoyo.link
+# HoYoLab
+  - DOMAIN-SUFFIX,hoyolab.com
+# HoYoverse
+  - DOMAIN-SUFFIX,hoyoverse.com
