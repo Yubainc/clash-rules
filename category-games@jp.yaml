@@ -9,6 +9,23 @@ payload:
   - DOMAIN,prd-priconne-redive.akamaized.net
   - DOMAIN,prd-storage-app-umamusume.akamaized.net
   - DOMAIN,prd-storage-game-umamusume.akamaized.net
+# DMM
+  - DOMAIN-SUFFIX,bluekai.com
+  - DOMAIN-SUFFIX,dmm-extension.com
+  - DOMAIN-SUFFIX,dmm.co.jp
+  - DOMAIN-SUFFIX,dmm.com
+  - DOMAIN-SUFFIX,dmmapis.com
+  - DOMAIN-SUFFIX,dmmrex.com
+  - DOMAIN-SUFFIX,fout.jp
+  - DOMAIN-SUFFIX,gmossp-sp.jp
+  - DOMAIN-SUFFIX,i-mobile.co.jp
+  - DOMAIN-SUFFIX,im-apps.net
+  - DOMAIN-SUFFIX,impact-ad.jp
+  - DOMAIN-SUFFIX,ladsp.com
+  - DOMAIN-SUFFIX,microad.co.jp
+  - DOMAIN-SUFFIX,microad.jp
+  - DOMAIN-SUFFIX,socdm.com
+  - DOMAIN,api-p.videomarket.jp
 # 原神
   - DOMAIN-SUFFIX,genshinimpact.com
   - DOMAIN,dispatchosglobal.yuanshen.com
