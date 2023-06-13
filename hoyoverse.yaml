@@ -1,22 +1,22 @@
 payload:
-# genshin
+# 原神
   - DOMAIN-SUFFIX,genshinimpact.com
   - DOMAIN,dispatchosglobal.yuanshen.com
   - DOMAIN,osasiadispatch.yuanshen.com
   - DOMAIN,autopatchhk.yuanshen.com
-  - DOMAIN,webstatic-sea.mihoyo.com
   - DOMAIN,hk4e-api-os.mihoyo.com
-  - DOMAIN,account.mihoyo.com
   - IP-CIDR,8.211.0.0/16
   - IP-CIDR,47.74.0.0/16
   - IP-CIDR,47.245.0.0/16
-# honkaiimpact3
+# 崩坏3
   - DOMAIN-SUFFIX,honkaiimpact3.com
-# hsr
+# 星穹轨道
   - DOMAIN-SUFFIX,honkaistarrail.com
   - DOMAIN-SUFFIX,starrails.com
-# hoyoverse
+# 短链接
   - DOMAIN-SUFFIX,hoyo.link
+# HoYoLab
   - DOMAIN-SUFFIX,hoyolab.com
+# HoYoverse
   - DOMAIN-SUFFIX,hoyoverse.com
   
