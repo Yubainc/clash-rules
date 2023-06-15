@@ -1,15 +1,35 @@
 payload:
 # 蔚蓝档案
-  - '*.nexon.com'
-  - '*.mp.nexon.com'
-  - '*.ngsm.nexon.com'
-  - 'ba.dn.nexoncdn.co.kr'
-  - 'jp.livelog.nexon.com'
-  - 'nxm-eu-bagl.nexon.com'
-  - 'd1xcyqc5pfiggd.cloudfront.net'
-  - 'd30y0swoxkbnsm.cloudfront.net'
-  - 'd2vaidpni345rp.cloudfront.net'
+  - DOMAIN-SUFFIX,m.nexon.com
+  - DOMAIN-SUFFIX,m-api.nexon.com
+  - DOMAIN-SUFFIX,jp.livelog.nexon.com
+  - DOMAIN-SUFFIX,nxm-eu-bagl.nexon.com
+  - DOMAIN-SUFFIX,stamp.mp.nexon.com
+  - DOMAIN-SUFFIX,sdk-push.mp.nexon.com
+  - DOMAIN-SUFFIX,api.ngsm.nexon.com
+  - DOMAIN-SUFFIX,log.ngsm.nexon.com
+  - DOMAIN-SUFFIX,ba.dn.nexoncdn.co.kr
 # 世界计划
-  - '+.bytedgame.com'
+  - DOMAIN-SUFFIX,bytedgame.com
 # 赛马娘
-  - '+.komoejoy.com'
+  - DOMAIN-SUFFIX,komoejoy.com
+# 原神
+  - DOMAIN-SUFFIX,genshinimpact.com
+  - DOMAIN,dispatchosglobal.yuanshen.com
+  - DOMAIN,osasiadispatch.yuanshen.com
+  - DOMAIN,autopatchhk.yuanshen.com
+  - DOMAIN,hk4e-api-os.mihoyo.com
+  - IP-CIDR,8.211.0.0/16
+  - IP-CIDR,47.74.0.0/16
+  - IP-CIDR,47.245.0.0/16
+# 崩坏3
+  - DOMAIN-SUFFIX,honkaiimpact3.com
+# 星穹轨道
+  - DOMAIN-SUFFIX,honkaistarrail.com
+  - DOMAIN-SUFFIX,starrails.com
+# 短链接
+  - DOMAIN-SUFFIX,hoyo.link
+# HoYoLab
+  - DOMAIN-SUFFIX,hoyolab.com
+# HoYoverse
+  - DOMAIN-SUFFIX,hoyoverse.com
