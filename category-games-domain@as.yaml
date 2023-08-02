@@ -1,13 +1,11 @@
 payload:
 # 蔚蓝档案
   - '+.m.nexon.com'
+  - '+.mp.nexon.com'
+  - '+.ngsm.nexon.com'
   - '+.m-api.nexon.com'
   - '+.jp.livelog.nexon.com'
   - '+.nxm-eu-bagl.nexon.com'
-  - '+.stamp.mp.nexon.com'
-  - '+.sdk-push.mp.nexon.com'
-  - '+.api.ngsm.nexon.com'
-  - '+.log.ngsm.nexon.com'
   - '+.ba.dn.nexoncdn.co.kr'
 # 世界计划
   - '+.bytedgame.com'
