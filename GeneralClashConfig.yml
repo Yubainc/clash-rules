@@ -1,0 +1,32 @@
+mixed-port: 7890
+mode: rule
+log-level: info
+external-controller: 127.0.0.1:9090
+secret: xRQcXWH6mN4Py8
+ipv6: true
+dns:
+  enable: true
+  ipv6: true
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+    - 8.8.8.8
+    - 1.0.0.1
+  fake-ip-filter:
+    - +.stun.*.*
+    - +.stun.*.*.*
+    - +.stun.*.*.*.*
+    - lens.l.google.com
+    - stun.l.google.com
+    - '*.n.n.srv.nintendo.net'
+    - '*.mcdn.bilivideo.cn'
+    - dns.msftncsi.com
+    - www.msftncsi.com
+    - www.msftconnecttest.com
+    - connect.rom.miui.com
+    - connectivitycheck.platform.hicloud.com
+    - wifi.vivo.com.cn
+    - cp.cloudflare.com
+    - WORKGROUP
