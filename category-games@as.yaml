@@ -1,0 +1,13 @@
+payload:
+# 蔚蓝档案
+  - '+.m.nexon.com'
+  - '+.mp.nexon.com'
+  - '+.ngsm.nexon.com'
+  - '+.m-api.nexon.com'
+  - '+.jp.livelog.nexon.com'
+  - '+.nxm-eu-bagl.nexon.com'
+  - '+.ba.dn.nexoncdn.co.kr'
+# 世界计划
+  - '+.bytedgame.com'
+# 赛马娘
+  - '+.komoejoy.com'
