@@ -1,4 +1,24 @@
 payload:
+# e-hentai
+  - '+.e-hentai.org'
+  - '+.ehgt.org'
+  - '+.ehtracker.org'
+  - '+.ehwiki.org'
+  - '+.exhentai.org'
+  - '+.hath.network'
+  - '+.hentaiathome.net'
+  - '+.hentaiverse.org'
+# picacg
+  - '+.bikaa.xyz'
+  - '+.bikac.xyz'
+  - '+.bikaios.xyz'
+  - '+.manhuabika.com'
+  - '+.picacgp.com'
+  - '+.picacgy.com'
+  - '+.picacn.xyz'
+  - '+.picacomic.com'
+  - '+.picacomic.xyz'
+  - '+.wikawika.xyz'
 # iwara
   - '+.iwara.tv'
 # nhentai
