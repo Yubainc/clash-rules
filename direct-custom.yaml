@@ -5,3 +5,4 @@ payload:
   - '+.steamcontent.com'
   - '+.steamserver.net'
   - '+.steamusercontent.com'
+  - '+.cloudflare-ech.com'
