@@ -1,3 +1,5 @@
 payload:
   - '+.googleapis.cn'
+  - '+.googleapis.com'
+  - '+.xn--ngstr-lra8j.com'
   - 'status.yubainc.top'
