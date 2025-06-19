@@ -1,0 +1,42 @@
+payload:
+# 蔚蓝档案
+  - '+.m.nexon.com'
+  - '+.mp.nexon.com'
+  - '+.ngsm.nexon.com'
+  - '+.m-api.nexon.com'
+  - '+.jp.livelog.nexon.com'
+  - '+.nxm-eu-bagl.nexon.com'
+  - '+.ba.dn.nexoncdn.co.kr'
+# 世界计划
+  - '+.bytedgame.com'
+# 赛马娘
+  - '+.komoejoy.com'
+# 原神
+  - '+.genshinimpact.com'
+  - 'dispatchosglobal.yuanshen.com'
+  - 'osasiadispatch.yuanshen.com'
+  - 'autopatchhk.yuanshen.com'
+  - 'hk4e-api-os.mihoyo.com'
+# 崩坏3
+  - '+.honkaiimpact3.com'
+# 星穹轨道
+  - '+.honkaistarrail.com'
+  - '+.starrails.com'
+# 绝区零
+  - '+.zenlesszonezero.com'
+# 短链接
+  - '+.hoyo.link'
+# HoYoLab
+  - '+.hoyolab.com'
+# HoYoverse
+  - '+.hoyoverse.com'
+# 鸣潮
+  - '+.prod-alicdn-gamestarter.kurogame.com'
+  - '+.kurogame.net'
+  - '+.aki-game.net'
+  - '+.kurogame-service.com'
+  - '+.listdl.com'
+# cbjq
+  - '+.xoyo.games'
+  - '+.amazingseasun.com'
+  - '+.amazingseasuncdn.com'
