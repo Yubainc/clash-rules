@@ -1,1 +1,5 @@
-
+payload:
+- PROCESS-PATH-REGEX,(?=.*SNOWBREAK)(?=.*Game\.exe).*
+- PROCESS-NAME,com.seasun.snowbreak.google
+- PROCESS-NAME,StarRail.exe
+- PROCESS-NAME,com.HoYoverse.hkrpgoversea
