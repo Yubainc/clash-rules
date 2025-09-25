@@ -1,4 +1,6 @@
 payload:
+- PROCESS-NAME,com.kurogame.wutheringwaves.global
+- PROCESS-NAME,Client-Win64-Shipping.exe
 - PROCESS-PATH-REGEX,(?=.*SNOWBREAK)(?=.*Game\.exe).*
 - PROCESS-NAME,com.seasun.snowbreak.google
 - PROCESS-NAME,StarRail.exe
