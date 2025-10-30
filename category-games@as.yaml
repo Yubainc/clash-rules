@@ -1,10 +1,13 @@
 payload:
+# Wuthering Waves
 - PROCESS-NAME,com.kurogame.wutheringwaves.global
 - PROCESS-PATH-REGEX,(?=.*Wuthering Waves)(?=.*Client-Win64-Shipping\.exe).*
+# Snowbreak
 - PROCESS-NAME,com.seasun.snowbreak.google
 - PROCESS-PATH-REGEX,(?=.*SNOWBREAK)(?=.*Game\.exe).*
+# StarRail
 - PROCESS-NAME,StarRail.exe
 - PROCESS-NAME,com.HoYoverse.hkrpgoversea
-#Nikke
+# Nikke
 - PROCESS-NAME,com.gamamobi.nikke
 - PROCESS-NAME,com.proximabeta.nikke
