@@ -6,3 +6,4 @@ payload:
   - '+.steamserver.net'
   - '+.steamusercontent.com'
   - '+.cloudflare-ech.com'
+  - '+.syncthing.net'
