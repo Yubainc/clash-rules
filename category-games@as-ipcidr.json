@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "dispatchosglobal.yuanshen.com",
+        "osasiadispatch.yuanshen.com",
+        "autopatchhk.yuanshen.com",
+        "hk4e-api-os.mihoyo.com"
+      ],
+      "domain_suffix": [
+        "m.nexon.com",
+        "mp.nexon.com",
+        "ngsm.nexon.com",
+        "m-api.nexon.com",
+        "jp.livelog.nexon.com",
+        "nxm-eu-bagl.nexon.com",
+        "ba.dn.nexoncdn.co.kr",
+        "bytedgame.com",
+        "komoejoy.com",
+        "genshinimpact.com",
+        "honkaiimpact3.com",
+        "honkaistarrail.com",
+        "starrails.com",
+        "zenlesszonezero.com",
+        "hoyo.link",
+        "hoyolab.com",
+        "hoyoverse.com",
+        "prod-alicdn-gamestarter.kurogame.com",
+        "kurogame.net",
+        "aki-game.net",
+        "kurogame-service.com",
+        "listdl.com",
+        "xoyo.games",
+        "amazingseasun.com",
+        "amazingseasuncdn.com",
+        "nikke-kr.com",
+        "nikke-en.com"
+      ],
+      "ip_cidr": [
+        "8.209.0.0/16",
+        "8.211.0.0/16",
+        "8.221.0.0/16",
+        "47.74.0.0/16",
+        "47.91.0.0/16",
+        "47.245.0.0/16",
+        "43.130.0.0/16",
+        "43.133.0.0/16",
+        "43.153.0.0/16",
+        "150.109.0.0/16"
+      ]
+    }
+  ]
+}
