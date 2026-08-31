@@ -1,10 +1,18 @@
-payload:
-  - '+.mikanime.tv'
-  - '+.cm.steampowered.com'
-  - '+.steamchina.com'
-  - '+.steamcontent.com'
-  - '+.steamserver.net'
-  - '+.steamusercontent.com'
-  - '+.cloudflare-ech.com'
-  - '+.syncthing.net'
-  - '+.yunwu.ai'
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "mikanime.tv",
+        "cm.steampowered.com",
+        "steamchina.com",
+        "steamcontent.com",
+        "steamserver.net",
+        "steamusercontent.com",
+        "cloudflare-ech.com",
+        "syncthing.net",
+        "yunwu.ai"
+      ]
+    }
+  ]
+}
