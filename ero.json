@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "e-hentai.org",
+        "ehgt.org",
+        "ehtracker.org",
+        "ehwiki.org",
+        "exhentai.org",
+        "hath.network",
+        "hentaiathome.net",
+        "hentaiverse.org",
+        "bikaa.xyz",
+        "bikac.xyz",
+        "bikaios.xyz",
+        "manhuabika.com",
+        "picacgp.com",
+        "picacgy.com",
+        "picacn.xyz",
+        "picacomic.com",
+        "picacomic.xyz",
+        "wikawika.xyz",
+        "iwara.tv",
+        "nhentai.net",
+        "wnacg.com",
+        "qy0.ru",
+        "hanime1.me",
+        "sb-cd.com",
+        "vdownload.hembed.com"
+      ]
+    }
+  ]
+}
